@@ -52,9 +52,6 @@ function App() {
        </Routes>
        </Router>
        </>
-       <div className='footer' class='text-end p-2'> 
-          <p> Design and Develop by Dheerendra Dixit</p>
-       </div>
     </div>
 
   );
